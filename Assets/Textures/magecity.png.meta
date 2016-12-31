@@ -1,0 +1,6313 @@
+fileFormatVersion: 2
+guid: 053480744fc59354487896fe9c5e36bd
+timeCreated: 1483104544
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: magecity_0
+    21300002: magecity_1
+    21300004: magecity_2
+    21300006: magecity_3
+    21300008: magecity_4
+    21300010: magecity_5
+    21300012: magecity_6
+    21300014: magecity_7
+    21300016: magecity_8
+    21300018: magecity_9
+    21300020: magecity_10
+    21300022: magecity_11
+    21300024: magecity_12
+    21300026: magecity_13
+    21300028: magecity_14
+    21300030: magecity_15
+    21300032: magecity_16
+    21300034: magecity_17
+    21300036: magecity_18
+    21300038: magecity_19
+    21300040: magecity_20
+    21300042: magecity_21
+    21300044: magecity_22
+    21300046: magecity_23
+    21300048: magecity_24
+    21300050: magecity_25
+    21300052: magecity_26
+    21300054: magecity_27
+    21300056: magecity_28
+    21300058: magecity_29
+    21300060: magecity_30
+    21300062: magecity_31
+    21300064: magecity_32
+    21300066: magecity_33
+    21300068: magecity_34
+    21300070: magecity_35
+    21300072: magecity_36
+    21300074: magecity_37
+    21300076: magecity_38
+    21300078: magecity_39
+    21300080: magecity_40
+    21300082: magecity_41
+    21300084: magecity_42
+    21300086: magecity_43
+    21300088: magecity_44
+    21300090: magecity_45
+    21300092: magecity_46
+    21300094: magecity_47
+    21300096: magecity_48
+    21300098: magecity_49
+    21300100: magecity_50
+    21300102: magecity_51
+    21300104: magecity_52
+    21300106: magecity_53
+    21300108: magecity_54
+    21300110: magecity_55
+    21300112: magecity_56
+    21300114: magecity_57
+    21300116: magecity_58
+    21300118: magecity_59
+    21300120: magecity_60
+    21300122: magecity_61
+    21300124: magecity_62
+    21300126: magecity_63
+    21300128: magecity_64
+    21300130: magecity_65
+    21300132: magecity_66
+    21300134: magecity_67
+    21300136: magecity_68
+    21300138: magecity_69
+    21300140: magecity_70
+    21300142: magecity_71
+    21300144: magecity_72
+    21300146: magecity_73
+    21300148: magecity_74
+    21300150: magecity_75
+    21300152: magecity_76
+    21300154: magecity_77
+    21300156: magecity_78
+    21300158: magecity_79
+    21300160: magecity_80
+    21300162: magecity_81
+    21300164: magecity_82
+    21300166: magecity_83
+    21300168: magecity_84
+    21300170: magecity_85
+    21300172: magecity_86
+    21300174: magecity_87
+    21300176: magecity_88
+    21300178: magecity_89
+    21300180: magecity_90
+    21300182: magecity_91
+    21300184: magecity_92
+    21300186: magecity_93
+    21300188: magecity_94
+    21300190: magecity_95
+    21300192: magecity_96
+    21300194: magecity_97
+    21300196: magecity_98
+    21300198: magecity_99
+    21300200: magecity_100
+    21300202: magecity_101
+    21300204: magecity_102
+    21300206: magecity_103
+    21300208: magecity_104
+    21300210: magecity_105
+    21300212: magecity_106
+    21300214: magecity_107
+    21300216: magecity_108
+    21300218: magecity_109
+    21300220: magecity_110
+    21300222: magecity_111
+    21300224: magecity_112
+    21300226: magecity_113
+    21300228: magecity_114
+    21300230: magecity_115
+    21300232: magecity_116
+    21300234: magecity_117
+    21300236: magecity_118
+    21300238: magecity_119
+    21300240: magecity_120
+    21300242: magecity_121
+    21300244: magecity_122
+    21300246: magecity_123
+    21300248: magecity_124
+    21300250: magecity_125
+    21300252: magecity_126
+    21300254: magecity_127
+    21300256: magecity_128
+    21300258: magecity_129
+    21300260: magecity_130
+    21300262: magecity_131
+    21300264: magecity_132
+    21300266: magecity_133
+    21300268: magecity_134
+    21300270: magecity_135
+    21300272: magecity_136
+    21300274: magecity_137
+    21300276: magecity_138
+    21300278: magecity_139
+    21300280: magecity_140
+    21300282: magecity_141
+    21300284: magecity_142
+    21300286: magecity_143
+    21300288: magecity_144
+    21300290: magecity_145
+    21300292: magecity_146
+    21300294: magecity_147
+    21300296: magecity_148
+    21300298: magecity_149
+    21300300: magecity_150
+    21300302: magecity_151
+    21300304: magecity_152
+    21300306: magecity_153
+    21300308: magecity_154
+    21300310: magecity_155
+    21300312: magecity_156
+    21300314: magecity_157
+    21300316: magecity_158
+    21300318: magecity_159
+    21300320: magecity_160
+    21300322: magecity_161
+    21300324: magecity_162
+    21300326: magecity_163
+    21300328: magecity_164
+    21300330: magecity_165
+    21300332: magecity_166
+    21300334: magecity_167
+    21300336: magecity_168
+    21300338: magecity_169
+    21300340: magecity_170
+    21300342: magecity_171
+    21300344: magecity_172
+    21300346: magecity_173
+    21300348: magecity_174
+    21300350: magecity_175
+    21300352: magecity_176
+    21300354: magecity_177
+    21300356: magecity_178
+    21300358: magecity_179
+    21300360: magecity_180
+    21300362: magecity_181
+    21300364: magecity_182
+    21300366: magecity_183
+    21300368: magecity_184
+    21300370: magecity_185
+    21300372: magecity_186
+    21300374: magecity_187
+    21300376: magecity_188
+    21300378: magecity_189
+    21300380: magecity_190
+    21300382: magecity_191
+    21300384: magecity_192
+    21300386: magecity_193
+    21300388: magecity_194
+    21300390: magecity_195
+    21300392: magecity_196
+    21300394: magecity_197
+    21300396: magecity_198
+    21300398: magecity_199
+    21300400: magecity_200
+    21300402: magecity_201
+    21300404: magecity_202
+    21300406: magecity_203
+    21300408: magecity_204
+    21300410: magecity_205
+    21300412: magecity_206
+    21300414: magecity_207
+    21300416: magecity_208
+    21300418: magecity_209
+    21300420: magecity_210
+    21300422: magecity_211
+    21300424: magecity_212
+    21300426: magecity_213
+    21300428: magecity_214
+    21300430: magecity_215
+    21300432: magecity_216
+    21300434: magecity_217
+    21300436: magecity_218
+    21300438: magecity_219
+    21300440: magecity_220
+    21300442: magecity_221
+    21300444: magecity_222
+    21300446: magecity_223
+    21300448: magecity_224
+    21300450: magecity_225
+    21300452: magecity_226
+    21300454: magecity_227
+    21300456: magecity_228
+    21300458: magecity_229
+    21300460: magecity_230
+    21300462: magecity_231
+    21300464: magecity_232
+    21300466: magecity_233
+    21300468: magecity_234
+    21300470: magecity_235
+    21300472: magecity_236
+    21300474: magecity_237
+    21300476: magecity_238
+    21300478: magecity_239
+    21300480: magecity_240
+    21300482: magecity_241
+    21300484: magecity_242
+    21300486: magecity_243
+    21300488: magecity_244
+    21300490: magecity_245
+    21300492: magecity_246
+    21300494: magecity_247
+    21300496: magecity_248
+    21300498: magecity_249
+    21300500: magecity_250
+    21300502: magecity_251
+    21300504: magecity_252
+    21300506: magecity_253
+    21300508: magecity_254
+    21300510: magecity_255
+    21300512: magecity_256
+    21300514: magecity_257
+    21300516: magecity_258
+    21300518: magecity_259
+    21300520: magecity_260
+    21300522: magecity_261
+    21300524: magecity_262
+    21300526: magecity_263
+    21300528: magecity_264
+    21300530: magecity_265
+    21300532: magecity_266
+    21300534: magecity_267
+    21300536: magecity_268
+    21300538: magecity_269
+    21300540: magecity_270
+    21300542: magecity_271
+    21300544: magecity_272
+    21300546: magecity_273
+    21300548: magecity_274
+    21300550: magecity_275
+    21300552: magecity_276
+    21300554: magecity_277
+    21300556: magecity_278
+    21300558: magecity_279
+    21300560: magecity_280
+    21300562: magecity_281
+    21300564: magecity_282
+    21300566: magecity_283
+    21300568: magecity_284
+    21300570: magecity_285
+    21300572: magecity_286
+    21300574: magecity_287
+    21300576: magecity_288
+    21300578: magecity_289
+    21300580: magecity_290
+    21300582: magecity_291
+    21300584: magecity_292
+    21300586: magecity_293
+    21300588: magecity_294
+    21300590: magecity_295
+    21300592: magecity_296
+    21300594: magecity_297
+    21300596: magecity_298
+    21300598: magecity_299
+    21300600: magecity_300
+    21300602: magecity_301
+    21300604: magecity_302
+    21300606: magecity_303
+    21300608: magecity_304
+    21300610: magecity_305
+    21300612: magecity_306
+    21300614: magecity_307
+    21300616: magecity_308
+    21300618: magecity_309
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: magecity_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1418
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1418
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1418
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1418
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1418
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1418
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1418
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1418
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1386
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_9
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1386
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_10
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1386
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_11
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1386
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_12
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1386
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_13
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1386
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_14
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1386
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_15
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1386
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1354
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_17
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1354
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_18
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1354
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_19
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1354
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_20
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1354
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_21
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1354
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_22
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1354
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_23
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1354
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1322
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_25
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1322
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_26
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1322
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_27
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1322
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_28
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1322
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_29
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1322
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_30
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1322
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_31
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1322
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1290
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_33
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1290
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_34
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1290
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_35
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1290
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_36
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1290
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_37
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1290
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_38
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1290
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_39
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1290
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1258
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_41
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1258
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_42
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1258
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_43
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1258
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_44
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1258
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_45
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1258
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_46
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1258
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_47
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1258
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1226
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_49
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1226
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_50
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1226
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_51
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1226
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_52
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1226
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_53
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1226
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_54
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1226
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_55
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1226
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1194
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_57
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1194
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_58
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1194
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_59
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1194
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_60
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1194
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_61
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1194
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_62
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1194
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_63
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1194
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_64
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1162
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_65
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1162
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_66
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1162
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_67
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1162
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_68
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1130
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_69
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1130
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_70
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1130
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_71
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1130
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_72
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1130
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_73
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1130
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_74
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1130
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_75
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1130
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_76
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1098
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_77
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1098
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_78
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1098
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_79
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1098
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_80
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1098
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_81
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1098
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_82
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1066
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_83
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1066
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_84
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1066
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_85
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1034
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_86
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1034
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_87
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1034
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1002
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_89
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1002
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_90
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1002
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_91
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 970
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_92
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 970
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_93
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 970
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_94
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 970
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_95
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 970
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_96
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 970
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_97
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 970
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_98
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 938
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_99
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 938
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_100
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 938
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_101
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 938
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_102
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 938
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_103
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 938
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_104
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 938
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_105
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 938
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_106
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 906
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_107
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 906
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_108
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 906
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_109
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 906
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_110
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 906
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_111
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 906
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_112
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 906
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_113
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 906
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_114
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 874
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_115
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 874
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_116
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 874
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_117
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 874
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_118
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 874
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_119
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 874
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_120
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 874
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_121
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 842
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_122
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 842
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_123
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 842
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_124
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 842
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_125
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 842
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_126
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 842
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_127
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 842
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_128
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 810
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_129
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 810
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_130
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 810
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_131
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 810
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_132
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 810
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_133
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 810
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_134
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 778
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_135
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 778
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_136
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 778
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_137
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 778
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_138
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 778
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_139
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 778
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_140
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 778
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_141
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 778
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_142
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 746
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_143
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 746
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_144
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 746
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_145
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 746
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_146
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 746
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_147
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 746
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_148
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 746
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_149
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 746
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_150
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 714
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_151
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 714
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_152
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 714
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_153
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 714
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_154
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 714
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_155
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 714
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_156
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 714
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_157
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 714
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_158
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 682
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_159
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 682
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_160
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 682
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_161
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 682
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_162
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 682
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_163
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 682
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_164
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 682
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_165
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 682
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_166
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 650
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_167
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 650
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_168
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 650
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_169
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 650
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_170
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 650
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_171
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 650
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_172
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 650
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_173
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 650
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_174
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 618
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_175
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 618
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_176
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 618
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_177
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 618
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_178
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 618
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_179
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 618
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_180
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 618
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_181
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 618
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_182
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 586
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_183
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 586
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_184
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 586
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_185
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 586
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_186
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 586
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_187
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 554
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_188
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 554
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_189
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 554
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_190
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 554
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_191
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 554
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_192
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 522
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_193
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 522
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_194
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 522
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_195
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 522
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_196
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 522
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_197
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 490
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_198
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 490
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_199
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 490
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_200
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 490
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_201
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 490
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_202
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 458
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_203
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 458
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_204
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 458
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_205
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 458
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_206
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 458
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_207
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 458
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_208
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 458
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_209
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 458
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_210
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 426
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_211
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 426
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_212
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 426
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_213
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 426
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_214
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 426
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_215
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 426
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_216
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 426
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_217
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 426
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_218
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 394
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_219
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 394
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_220
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 394
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_221
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 394
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_222
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 394
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_223
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 394
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_224
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 394
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_225
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 362
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_226
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 362
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_227
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 362
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_228
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 362
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_229
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 362
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_230
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 362
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_231
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 362
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_232
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 362
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_233
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 330
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_234
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 330
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_235
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 330
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_236
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 330
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_237
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 330
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_238
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 330
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_239
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 330
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_240
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 330
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_241
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 298
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_242
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 298
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_243
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 298
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_244
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 298
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_245
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 298
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_246
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 298
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_247
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 298
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_248
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 298
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_249
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 266
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_250
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 266
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_251
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 266
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_252
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 266
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_253
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 266
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_254
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 266
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_255
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 266
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_256
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 266
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_257
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 234
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_258
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 234
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_259
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 234
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_260
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 234
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_261
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 234
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_262
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 234
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_263
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 234
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_264
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 234
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_265
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 202
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_266
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 202
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_267
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 202
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_268
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 202
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_269
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 202
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_270
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 202
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_271
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 202
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_272
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 202
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_273
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 170
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_274
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 170
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_275
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 170
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_276
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 170
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_277
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 170
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_278
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 170
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_279
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 170
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_280
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 170
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_281
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 138
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_282
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 138
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_283
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 138
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_284
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 138
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_285
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 138
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_286
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 138
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_287
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 138
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_288
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 138
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_289
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 106
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_290
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 106
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_291
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 106
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_292
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 106
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_293
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 106
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_294
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 106
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_295
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 106
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_296
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 106
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_297
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 74
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_298
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 74
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_299
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 74
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_300
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 74
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_301
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 74
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_302
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 74
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_303
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 74
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_304
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 74
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_305
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 42
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_306
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 42
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_307
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 42
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_308
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 42
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magecity_309
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 42
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline:
+    - - {x: 97, y: -548}
+      - {x: 60, y: -554}
+      - {x: 43, y: -585}
+      - {x: 38, y: -596}
+      - {x: 34, y: -609}
+      - {x: 35, y: -615}
+      - {x: 34, y: -587}
+      - {x: 32, y: -585}
+      - {x: 23, y: -582}
+      - {x: 25, y: -583}
+      - {x: 30, y: -579}
+      - {x: 33, y: -559}
+      - {x: 29, y: -551}
+      - {x: 13, y: -554}
+      - {x: 3, y: -572}
+      - {x: 3, y: -578}
+      - {x: 5, y: -581}
+      - {x: 13, y: -585}
+      - {x: 14, y: -585}
+      - {x: -62, y: -585}
+      - {x: -56, y: -579}
+      - {x: -52, y: -581}
+      - {x: -49, y: -581}
+      - {x: -47, y: -579}
+      - {x: -48, y: -567}
+      - {x: -47, y: -579}
+      - {x: -41, y: -585}
+      - {x: -14, y: -585}
+      - {x: 2, y: -580}
+      - {x: 2, y: -551}
+      - {x: -5, y: -544}
+      - {x: 128, y: -492}
+      - {x: 128, y: -378}
+      - {x: 51, y: -329}
+      - {x: -128, y: -329}
+      - {x: -128, y: -685}
+      - {x: -32, y: -685}
+      - {x: 102, y: -683}
+      - {x: 128, y: -620}
+      - {x: 128, y: -552}
+    - - {x: 100, y: -644}
+      - {x: 72, y: -655}
+      - {x: 72, y: -684}
+      - {x: 128, y: -684}
+      - {x: 128, y: -649}
+      - {x: 126, y: -644}
+    - - {x: 111, y: -591}
+      - {x: 110, y: -598}
+      - {x: 110, y: -614}
+      - {x: 111, y: -617}
+      - {x: 113, y: -619}
+      - {x: 128, y: -619}
+      - {x: 128, y: -591}
+    - - {x: 33, y: -562}
+      - {x: 33, y: -587}
+      - {x: 43, y: -587}
+      - {x: 60, y: -583}
+      - {x: 60, y: -566}
+      - {x: 54, y: -562}
+    - - {x: 32, y: -552}
+      - {x: 35, y: -558}
+      - {x: 38, y: -558}
+      - {x: 44, y: -553}
+      - {x: 44, y: -545}
+      - {x: 41, y: -540}
+      - {x: 38, y: -540}
+      - {x: 32, y: -544}
+    - - {x: 1, y: -533}
+      - {x: 1, y: -546}
+      - {x: 10, y: -556}
+      - {x: 27, y: -556}
+      - {x: 30, y: -553}
+      - {x: 30, y: -531}
+      - {x: 26, y: -526}
+      - {x: 18, y: -526}
+      - {x: 11, y: -527}
+    - - {x: 68, y: -527}
+      - {x: 67, y: -530}
+      - {x: 67, y: -540}
+      - {x: 104, y: -547}
+      - {x: 118, y: -547}
+      - {x: 119, y: -546}
+      - {x: 119, y: -535}
+      - {x: 97, y: -527}
+    - - {x: 34, y: -525}
+      - {x: 30, y: -527}
+      - {x: 30, y: -534}
+      - {x: 34, y: -540}
+      - {x: 36, y: -540}
+      - {x: 41, y: -536}
+      - {x: 41, y: -530}
+      - {x: 37, y: -525}
+    - - {x: 44, y: -478}
+      - {x: 39, y: -473}
+      - {x: 34, y: -471}
+      - {x: 23, y: -483}
+      - {x: 35, y: -470}
+      - {x: 41, y: -472}
+      - {x: 44, y: -470}
+      - {x: 44, y: -466}
+      - {x: 42, y: -461}
+      - {x: 18, y: -461}
+      - {x: 2, y: -466}
+      - {x: 2, y: -505}
+      - {x: 3, y: -509}
+      - {x: 12, y: -525}
+      - {x: 20, y: -525}
+      - {x: 22, y: -523}
+      - {x: 22, y: -521}
+      - {x: 44, y: -487}
+    - - {x: 34, y: -496}
+      - {x: 34, y: -517}
+      - {x: 41, y: -525}
+      - {x: 55, y: -525}
+      - {x: 63, y: -513}
+      - {x: 63, y: -496}
+    - - {x: 114, y: -498}
+      - {x: 105, y: -498}
+      - {x: 101, y: -500}
+      - {x: 101, y: -517}
+      - {x: 104, y: -519}
+      - {x: 107, y: -518}
+      - {x: 115, y: -518}
+      - {x: 118, y: -517}
+      - {x: 119, y: -503}
+    - - {x: 84, y: -489}
+      - {x: 78, y: -496}
+      - {x: 79, y: -505}
+      - {x: 82, y: -508}
+      - {x: 87, y: -510}
+      - {x: 91, y: -510}
+      - {x: 98, y: -504}
+      - {x: 99, y: -500}
+      - {x: 99, y: -496}
+      - {x: 93, y: -489}
+    - - {x: 70, y: -472}
+      - {x: 64, y: -479}
+      - {x: 65, y: -488}
+      - {x: 68, y: -491}
+      - {x: 73, y: -493}
+      - {x: 77, y: -493}
+      - {x: 84, y: -487}
+      - {x: 85, y: -483}
+      - {x: 85, y: -479}
+      - {x: 79, y: -472}
+    - - {x: 120, y: -386}
+      - {x: 118, y: -387}
+      - {x: 118, y: -393}
+      - {x: 125, y: -393}
+      - {x: 126, y: -391}
+      - {x: 126, y: -389}
+      - {x: 122, y: -386}
+    - - {x: 86, y: -384}
+      - {x: 82, y: -388}
+      - {x: 83, y: -391}
+      - {x: 88, y: -391}
+      - {x: 90, y: -389}
+      - {x: 90, y: -386}
+      - {x: 88, y: -384}
+    - - {x: 75, y: -380}
+      - {x: 73, y: -381}
+      - {x: 73, y: -387}
+      - {x: 80, y: -387}
+      - {x: 81, y: -385}
+      - {x: 81, y: -383}
+      - {x: 77, y: -380}
+    - - {x: 112, y: -376}
+      - {x: 110, y: -377}
+      - {x: 110, y: -383}
+      - {x: 117, y: -383}
+      - {x: 118, y: -381}
+      - {x: 118, y: -379}
+      - {x: 114, y: -376}
+    - - {x: 84, y: -374}
+      - {x: 82, y: -375}
+      - {x: 82, y: -381}
+      - {x: 89, y: -381}
+      - {x: 90, y: -379}
+      - {x: 90, y: -377}
+      - {x: 86, y: -374}
+    - - {x: 101, y: -367}
+      - {x: 99, y: -371}
+      - {x: 99, y: -377}
+      - {x: 100, y: -379}
+      - {x: 106, y: -379}
+      - {x: 109, y: -378}
+      - {x: 110, y: -376}
+      - {x: 110, y: -369}
+      - {x: 106, y: -367}
+    - - {x: 124, y: -367}
+      - {x: 120, y: -371}
+      - {x: 121, y: -374}
+      - {x: 126, y: -374}
+      - {x: 128, y: -372}
+      - {x: 128, y: -369}
+      - {x: 126, y: -367}
+    - - {x: 69, y: -365}
+      - {x: 67, y: -366}
+      - {x: 67, y: -372}
+      - {x: 74, y: -372}
+      - {x: 75, y: -370}
+      - {x: 75, y: -368}
+      - {x: 71, y: -365}
+    - - {x: 63, y: -347}
+      - {x: 79, y: -360}
+      - {x: 98, y: -360}
+      - {x: 98, y: -355}
+      - {x: 87, y: -337}
+      - {x: 77, y: -330}
+      - {x: 64, y: -330}
+      - {x: 63, y: -331}
+    - - {x: 111, y: -351}
+      - {x: 109, y: -353}
+      - {x: 109, y: -356}
+      - {x: 112, y: -359}
+      - {x: 116, y: -359}
+      - {x: 118, y: -357}
+      - {x: 118, y: -354}
+      - {x: 116, y: -352}
+    - - {x: 40, y: -349}
+      - {x: 38, y: -350}
+      - {x: 38, y: -356}
+      - {x: 45, y: -356}
+      - {x: 46, y: -354}
+      - {x: 46, y: -352}
+      - {x: 42, y: -349}
+    - - {x: 48, y: -340}
+      - {x: 46, y: -341}
+      - {x: 46, y: -347}
+      - {x: 53, y: -347}
+      - {x: 54, y: -345}
+      - {x: 54, y: -343}
+      - {x: 50, y: -340}
+    - - {x: 102, y: -340}
+      - {x: 100, y: -341}
+      - {x: 100, y: -347}
+      - {x: 107, y: -347}
+      - {x: 108, y: -345}
+      - {x: 108, y: -343}
+      - {x: 104, y: -340}
+    - - {x: 117, y: -334}
+      - {x: 115, y: -335}
+      - {x: 115, y: -341}
+      - {x: 122, y: -341}
+      - {x: 123, y: -339}
+      - {x: 123, y: -337}
+      - {x: 119, y: -334}
+    - - {x: 73, y: -308}
+      - {x: 70, y: -310}
+      - {x: 70, y: -323}
+      - {x: 75, y: -327}
+      - {x: 95, y: -327}
+      - {x: 97, y: -326}
+      - {x: 97, y: -323}
+      - {x: 85, y: -308}
+    - - {x: 104, y: -318}
+      - {x: 102, y: -319}
+      - {x: 102, y: -325}
+      - {x: 109, y: -325}
+      - {x: 110, y: -323}
+      - {x: 110, y: -321}
+      - {x: 106, y: -318}
+    - - {x: 117, y: -317}
+      - {x: 115, y: -318}
+      - {x: 115, y: -324}
+      - {x: 122, y: -324}
+      - {x: 123, y: -322}
+      - {x: 123, y: -320}
+      - {x: 119, y: -317}
+    - - {x: -53, y: -241}
+      - {x: -107, y: -241}
+      - {x: -122, y: -253}
+      - {x: -122, y: -297}
+      - {x: -107, y: -318}
+      - {x: -58, y: -318}
+      - {x: -40, y: -297}
+      - {x: -39, y: -292}
+      - {x: -39, y: -258}
+    - - {x: -128, y: -28}
+      - {x: -128, y: -182}
+      - {x: -26, y: -318}
+      - {x: 128, y: -318}
+      - {x: 128, y: 31}
+      - {x: 73, y: 31}
+      - {x: -111, y: 20}
+    - - {x: 109, y: -308}
+      - {x: 107, y: -313}
+      - {x: 109, y: -315}
+      - {x: 115, y: -315}
+      - {x: 116, y: -313}
+      - {x: 116, y: -311}
+      - {x: 112, y: -308}
+    - - {x: 108, y: -300}
+      - {x: 103, y: -300}
+      - {x: 101, y: -304}
+      - {x: 101, y: -308}
+      - {x: 108, y: -308}
+      - {x: 112, y: -306}
+      - {x: 112, y: -303}
+    - - {x: 124, y: -297}
+      - {x: 120, y: -301}
+      - {x: 121, y: -304}
+      - {x: 126, y: -304}
+      - {x: 128, y: -302}
+      - {x: 128, y: -299}
+      - {x: 126, y: -297}
+    - - {x: 15, y: 31}
+      - {x: 13, y: 29}
+      - {x: 13, y: -3}
+      - {x: 16, y: -6}
+      - {x: 50, y: -6}
+      - {x: 52, y: -4}
+      - {x: 52, y: 28}
+      - {x: 49, y: 31}
+    - - {x: 65, y: 28}
+      - {x: 65, y: -2}
+      - {x: 68, y: -3}
+      - {x: 97, y: -3}
+      - {x: 97, y: 28}
+    - - {x: -34, y: 42}
+      - {x: -34, y: 5}
+      - {x: 2, y: 5}
+      - {x: 2, y: 41}
+      - {x: 0, y: 42}
+    - - {x: -116, y: 40}
+      - {x: -116, y: 14}
+      - {x: -76, y: 14}
+      - {x: -76, y: 40}
+    - - {x: -57, y: 40}
+      - {x: -59, y: 38}
+      - {x: -59, y: 16}
+      - {x: -57, y: 14}
+      - {x: -39, y: 14}
+      - {x: -37, y: 16}
+      - {x: -37, y: 38}
+      - {x: -39, y: 40}
+    - - {x: -2, y: 51}
+      - {x: 33, y: 51}
+      - {x: 33, y: 77}
+      - {x: 30, y: 93}
+      - {x: 23, y: 98}
+      - {x: 3, y: 98}
+      - {x: -2, y: 89}
+    - - {x: 104, y: 117}
+      - {x: 99, y: 112}
+      - {x: 99, y: 53}
+      - {x: 128, y: 53}
+      - {x: 128, y: 112}
+      - {x: 112, y: 117}
+    - - {x: -65, y: 112}
+      - {x: -95, y: 112}
+      - {x: -97, y: 110}
+      - {x: -128, y: 87}
+      - {x: -128, y: 56}
+      - {x: -126, y: 55}
+      - {x: -82, y: 55}
+      - {x: -62, y: 63}
+      - {x: -62, y: 111}
+    - - {x: 96, y: 83}
+      - {x: 93, y: 85}
+      - {x: 34, y: 85}
+      - {x: 31, y: 80}
+      - {x: 31, y: 58}
+      - {x: 35, y: 55}
+      - {x: 95, y: 55}
+      - {x: 97, y: 61}
+      - {x: 97, y: 79}
+    - - {x: -58, y: 109}
+      - {x: -58, y: 64}
+      - {x: -55, y: 63}
+      - {x: -41, y: 63}
+      - {x: -39, y: 65}
+      - {x: -39, y: 107}
+      - {x: -41, y: 109}
+    - - {x: -23, y: 99}
+      - {x: -25, y: 97}
+      - {x: -25, y: 71}
+      - {x: -22, y: 68}
+      - {x: -8, y: 68}
+      - {x: -6, y: 70}
+      - {x: -6, y: 97}
+      - {x: -8, y: 99}
+    - - {x: -124, y: 112}
+      - {x: -124, y: 91}
+      - {x: -101, y: 91}
+      - {x: -101, y: 112}
+    - - {x: -122, y: 141}
+      - {x: -125, y: 140}
+      - {x: -125, y: 115}
+      - {x: -99, y: 115}
+      - {x: -99, y: 133}
+      - {x: -107, y: 141}
+    - - {x: -5, y: 217}
+      - {x: 3, y: 221}
+      - {x: 3, y: 224}
+      - {x: 41, y: 233}
+      - {x: 3, y: 215}
+      - {x: 2, y: 208}
+      - {x: 10, y: 204}
+      - {x: -2, y: 201}
+      - {x: 2, y: 195}
+      - {x: 12, y: 194}
+      - {x: 25, y: 127}
+      - {x: 70, y: 116}
+      - {x: 90, y: 116}
+      - {x: 126, y: 158}
+      - {x: 128, y: 166}
+      - {x: 128, y: 193}
+      - {x: 126, y: 199}
+      - {x: 120, y: 198}
+      - {x: 113, y: 192}
+      - {x: 114, y: 193}
+      - {x: 117, y: 198}
+      - {x: 128, y: 210}
+      - {x: 128, y: 237}
+      - {x: 125, y: 239}
+      - {x: 115, y: 244}
+      - {x: 114, y: 243}
+      - {x: 128, y: 259}
+      - {x: 128, y: 275}
+      - {x: 126, y: 278}
+      - {x: 116, y: 276}
+      - {x: 102, y: 276}
+      - {x: 96, y: 270}
+      - {x: 100, y: 276}
+      - {x: 87, y: 295}
+      - {x: 53, y: 295}
+      - {x: 24, y: 274}
+      - {x: 25, y: 267}
+      - {x: -25, y: 322}
+      - {x: -46, y: 333}
+      - {x: -58, y: 333}
+      - {x: -60, y: 329}
+      - {x: -95, y: 297}
+      - {x: -99, y: 247}
+      - {x: -54, y: 227}
+      - {x: -61, y: 217}
+      - {x: -61, y: 208}
+      - {x: -58, y: 205}
+      - {x: -57, y: 205}
+      - {x: -55, y: 207}
+      - {x: -56, y: 211}
+      - {x: -55, y: 212}
+      - {x: -55, y: 210}
+      - {x: -56, y: 198}
+      - {x: -57, y: 192}
+      - {x: -66, y: 145}
+      - {x: -62, y: 144}
+      - {x: -66, y: 142}
+      - {x: -65, y: 169}
+      - {x: -60, y: 184}
+      - {x: -62, y: 221}
+      - {x: -127, y: 222}
+      - {x: -128, y: 221}
+      - {x: -128, y: 158}
+      - {x: -114, y: 146}
+      - {x: -107, y: 148}
+      - {x: -95, y: 158}
+      - {x: -94, y: 160}
+      - {x: -94, y: 171}
+      - {x: -97, y: 180}
+      - {x: -100, y: 183}
+      - {x: -93, y: 181}
+      - {x: -94, y: 168}
+      - {x: -94, y: 145}
+      - {x: -101, y: 118}
+      - {x: -92, y: 116}
+      - {x: -13, y: 116}
+      - {x: 12, y: 119}
+      - {x: 6, y: 178}
+      - {x: -8, y: 220}
+    - - {x: 32, y: 439}
+      - {x: -128, y: 439}
+      - {x: -128, y: 243}
+      - {x: -71, y: 243}
+      - {x: 64, y: 398}
+      - {x: 64, y: 423}
+      - {x: 61, y: 433}
+    - - {x: -83, y: 335}
+      - {x: -91, y: 330}
+      - {x: -91, y: 307}
+      - {x: -69, y: 307}
+      - {x: -69, y: 330}
+      - {x: -74, y: 335}
+    - - {x: 52, y: 401}
+      - {x: 43, y: 401}
+      - {x: 38, y: 399}
+      - {x: 36, y: 395}
+      - {x: 36, y: 379}
+      - {x: 41, y: 377}
+      - {x: 59, y: 377}
+      - {x: 60, y: 379}
+      - {x: 60, y: 394}
+      - {x: 58, y: 398}
+    - - {x: 64, y: 423}
+      - {x: 64, y: 405}
+      - {x: 98, y: 405}
+      - {x: 98, y: 423}
+    - - {x: 118, y: 431}
+      - {x: 105, y: 431}
+      - {x: 99, y: 430}
+      - {x: 99, y: 412}
+      - {x: 103, y: 406}
+      - {x: 112, y: 406}
+      - {x: 124, y: 410}
+      - {x: 126, y: 413}
+      - {x: 126, y: 417}
+      - {x: 120, y: 430}
+    - - {x: 119, y: 599}
+      - {x: 128, y: 605}
+      - {x: 128, y: 725}
+      - {x: 123, y: 725}
+      - {x: 102, y: 718}
+      - {x: 100, y: 716}
+      - {x: 35, y: 709}
+      - {x: 33, y: 707}
+      - {x: 32, y: 674}
+      - {x: 32, y: 685}
+      - {x: 31, y: 688}
+      - {x: 33, y: 696}
+      - {x: 33, y: 712}
+      - {x: 37, y: 715}
+      - {x: 34, y: 725}
+      - {x: -4, y: 725}
+      - {x: 0, y: 685}
+      - {x: 0, y: 675}
+      - {x: -3, y: 678}
+      - {x: 0, y: 679}
+      - {x: 0, y: 682}
+      - {x: -1, y: 688}
+      - {x: -9, y: 715}
+      - {x: -31, y: 725}
+      - {x: -49, y: 725}
+      - {x: -58, y: 719}
+      - {x: -59, y: 704}
+      - {x: -47, y: 695}
+      - {x: -60, y: 692}
+      - {x: -62, y: 725}
+      - {x: -128, y: 725}
+      - {x: -128, y: 659}
+      - {x: -69, y: 658}
+      - {x: -82, y: 657}
+      - {x: -83, y: 654}
+      - {x: -88, y: 658}
+      - {x: -89, y: 658}
+      - {x: -91, y: 656}
+      - {x: -90, y: 653}
+      - {x: -83, y: 644}
+      - {x: -80, y: 638}
+      - {x: -78, y: 636}
+      - {x: -87, y: 644}
+      - {x: -89, y: 644}
+      - {x: -91, y: 641}
+      - {x: -97, y: 653}
+      - {x: -108, y: 658}
+      - {x: -128, y: 656}
+      - {x: -128, y: 467}
+      - {x: -29, y: 449}
+      - {x: 103, y: 449}
+      - {x: 128, y: 515}
+      - {x: 128, y: 599}
+      - {x: 117, y: 599}
+    - - {x: 97, y: 516}
+      - {x: 94, y: 514}
+      - {x: 94, y: 449}
+      - {x: 128, y: 449}
+      - {x: 128, y: 503}
+      - {x: 114, y: 516}
+    physicsShape:
+    - - {x: 87, y: -652}
+      - {x: 88, y: -649}
+      - {x: 89, y: -629}
+      - {x: 83, y: -621}
+      - {x: 96, y: -621}
+      - {x: 98, y: -619}
+      - {x: 99, y: -569}
+      - {x: 125, y: -578}
+      - {x: 126, y: -567}
+      - {x: 109, y: -557}
+      - {x: 96, y: -553}
+      - {x: 64, y: -553}
+      - {x: 62, y: -555}
+      - {x: 60, y: -594}
+      - {x: 43, y: -585}
+      - {x: 38, y: -596}
+      - {x: 34, y: -609}
+      - {x: 35, y: -615}
+      - {x: 34, y: -587}
+      - {x: 32, y: -585}
+      - {x: 23, y: -582}
+      - {x: 25, y: -583}
+      - {x: 30, y: -579}
+      - {x: 33, y: -559}
+      - {x: 29, y: -551}
+      - {x: 13, y: -554}
+      - {x: 3, y: -572}
+      - {x: 3, y: -578}
+      - {x: 5, y: -581}
+      - {x: 13, y: -585}
+      - {x: 14, y: -585}
+      - {x: -62, y: -585}
+      - {x: -56, y: -579}
+      - {x: -52, y: -581}
+      - {x: -49, y: -581}
+      - {x: -47, y: -579}
+      - {x: -48, y: -567}
+      - {x: -47, y: -579}
+      - {x: -41, y: -585}
+      - {x: -14, y: -585}
+      - {x: 2, y: -580}
+      - {x: 2, y: -551}
+      - {x: -5, y: -545}
+      - {x: -21, y: -545}
+      - {x: -58, y: -546}
+      - {x: -62, y: -525}
+      - {x: 0, y: -525}
+      - {x: 64, y: -461}
+      - {x: 81, y: -451}
+      - {x: 88, y: -432}
+      - {x: 94, y: -429}
+      - {x: 94, y: -491}
+      - {x: 96, y: -493}
+      - {x: 116, y: -494}
+      - {x: 120, y: -488}
+      - {x: 121, y: -453}
+      - {x: 128, y: -432}
+      - {x: 128, y: -431}
+      - {x: 125, y: -410}
+      - {x: 128, y: -406}
+      - {x: 128, y: -393}
+      - {x: 64, y: -361}
+      - {x: 34, y: -361}
+      - {x: 34, y: -331}
+      - {x: 32, y: -329}
+      - {x: -128, y: -329}
+      - {x: -128, y: -685}
+      - {x: -32, y: -685}
+      - {x: -30, y: -683}
+      - {x: -30, y: -653}
+      - {x: 65, y: -654}
+    - - {x: 100, y: -644}
+      - {x: 72, y: -655}
+      - {x: 72, y: -684}
+      - {x: 128, y: -684}
+      - {x: 128, y: -649}
+      - {x: 126, y: -644}
+    - - {x: 111, y: -591}
+      - {x: 110, y: -598}
+      - {x: 110, y: -614}
+      - {x: 111, y: -617}
+      - {x: 113, y: -619}
+      - {x: 128, y: -619}
+      - {x: 128, y: -591}
+    - - {x: 33, y: -562}
+      - {x: 33, y: -587}
+      - {x: 40, y: -587}
+      - {x: 52, y: -582}
+      - {x: 60, y: -583}
+      - {x: 60, y: -566}
+      - {x: 54, y: -562}
+    - - {x: 32, y: -552}
+      - {x: 35, y: -558}
+      - {x: 38, y: -558}
+      - {x: 44, y: -553}
+      - {x: 44, y: -545}
+      - {x: 41, y: -540}
+      - {x: 38, y: -540}
+      - {x: 32, y: -544}
+    - - {x: 1, y: -533}
+      - {x: 1, y: -546}
+      - {x: 10, y: -556}
+      - {x: 27, y: -556}
+      - {x: 30, y: -553}
+      - {x: 30, y: -531}
+      - {x: 26, y: -526}
+      - {x: 18, y: -526}
+      - {x: 11, y: -527}
+    - - {x: 85, y: -527}
+      - {x: 71, y: -527}
+      - {x: 67, y: -530}
+      - {x: 67, y: -540}
+      - {x: 77, y: -540}
+      - {x: 107, y: -547}
+      - {x: 118, y: -547}
+      - {x: 119, y: -546}
+      - {x: 119, y: -539}
+      - {x: 110, y: -532}
+    - - {x: 34, y: -525}
+      - {x: 30, y: -527}
+      - {x: 30, y: -534}
+      - {x: 34, y: -540}
+      - {x: 36, y: -540}
+      - {x: 41, y: -536}
+      - {x: 41, y: -530}
+      - {x: 37, y: -525}
+    - - {x: 44, y: -478}
+      - {x: 39, y: -473}
+      - {x: 34, y: -471}
+      - {x: 23, y: -483}
+      - {x: 35, y: -470}
+      - {x: 41, y: -472}
+      - {x: 44, y: -470}
+      - {x: 44, y: -466}
+      - {x: 42, y: -461}
+      - {x: 18, y: -461}
+      - {x: 2, y: -466}
+      - {x: 2, y: -482}
+      - {x: 4, y: -490}
+      - {x: 3, y: -509}
+      - {x: 12, y: -525}
+      - {x: 20, y: -525}
+      - {x: 22, y: -523}
+      - {x: 22, y: -521}
+      - {x: 44, y: -487}
+    - - {x: 58, y: -496}
+      - {x: 38, y: -496}
+      - {x: 34, y: -505}
+      - {x: 34, y: -517}
+      - {x: 41, y: -525}
+      - {x: 54, y: -525}
+      - {x: 61, y: -512}
+      - {x: 63, y: -508}
+      - {x: 63, y: -499}
+    - - {x: 114, y: -498}
+      - {x: 105, y: -498}
+      - {x: 101, y: -500}
+      - {x: 101, y: -517}
+      - {x: 104, y: -519}
+      - {x: 107, y: -518}
+      - {x: 115, y: -518}
+      - {x: 118, y: -517}
+      - {x: 119, y: -503}
+    - - {x: 84, y: -489}
+      - {x: 78, y: -496}
+      - {x: 79, y: -505}
+      - {x: 82, y: -508}
+      - {x: 87, y: -510}
+      - {x: 91, y: -510}
+      - {x: 98, y: -504}
+      - {x: 99, y: -500}
+      - {x: 99, y: -496}
+      - {x: 93, y: -489}
+    - - {x: 70, y: -472}
+      - {x: 64, y: -479}
+      - {x: 65, y: -488}
+      - {x: 68, y: -491}
+      - {x: 73, y: -493}
+      - {x: 77, y: -493}
+      - {x: 84, y: -487}
+      - {x: 85, y: -483}
+      - {x: 85, y: -479}
+      - {x: 79, y: -472}
+    - - {x: 120, y: -386}
+      - {x: 118, y: -387}
+      - {x: 118, y: -393}
+      - {x: 125, y: -393}
+      - {x: 126, y: -391}
+      - {x: 126, y: -389}
+      - {x: 122, y: -386}
+    - - {x: 86, y: -384}
+      - {x: 82, y: -388}
+      - {x: 83, y: -391}
+      - {x: 88, y: -391}
+      - {x: 90, y: -389}
+      - {x: 90, y: -386}
+      - {x: 88, y: -384}
+    - - {x: 75, y: -380}
+      - {x: 73, y: -381}
+      - {x: 73, y: -387}
+      - {x: 80, y: -387}
+      - {x: 81, y: -385}
+      - {x: 81, y: -383}
+      - {x: 77, y: -380}
+    - - {x: 112, y: -376}
+      - {x: 110, y: -377}
+      - {x: 110, y: -383}
+      - {x: 117, y: -383}
+      - {x: 118, y: -381}
+      - {x: 118, y: -379}
+      - {x: 114, y: -376}
+    - - {x: 84, y: -374}
+      - {x: 82, y: -375}
+      - {x: 82, y: -381}
+      - {x: 89, y: -381}
+      - {x: 90, y: -379}
+      - {x: 90, y: -377}
+      - {x: 86, y: -374}
+    - - {x: 101, y: -367}
+      - {x: 99, y: -371}
+      - {x: 99, y: -377}
+      - {x: 100, y: -379}
+      - {x: 106, y: -379}
+      - {x: 109, y: -378}
+      - {x: 110, y: -376}
+      - {x: 110, y: -369}
+      - {x: 106, y: -367}
+    - - {x: 124, y: -367}
+      - {x: 120, y: -371}
+      - {x: 121, y: -374}
+      - {x: 126, y: -374}
+      - {x: 128, y: -372}
+      - {x: 128, y: -369}
+      - {x: 126, y: -367}
+    - - {x: 69, y: -365}
+      - {x: 67, y: -366}
+      - {x: 67, y: -372}
+      - {x: 74, y: -372}
+      - {x: 75, y: -370}
+      - {x: 75, y: -368}
+      - {x: 71, y: -365}
+    - - {x: 63, y: -347}
+      - {x: 79, y: -360}
+      - {x: 98, y: -360}
+      - {x: 98, y: -355}
+      - {x: 87, y: -337}
+      - {x: 77, y: -330}
+      - {x: 64, y: -330}
+      - {x: 63, y: -331}
+    - - {x: 111, y: -351}
+      - {x: 109, y: -353}
+      - {x: 109, y: -356}
+      - {x: 112, y: -359}
+      - {x: 116, y: -359}
+      - {x: 118, y: -357}
+      - {x: 118, y: -354}
+      - {x: 116, y: -352}
+    - - {x: 40, y: -349}
+      - {x: 38, y: -350}
+      - {x: 38, y: -356}
+      - {x: 45, y: -356}
+      - {x: 46, y: -354}
+      - {x: 46, y: -352}
+      - {x: 42, y: -349}
+    - - {x: 48, y: -340}
+      - {x: 46, y: -341}
+      - {x: 46, y: -347}
+      - {x: 53, y: -347}
+      - {x: 54, y: -345}
+      - {x: 54, y: -343}
+      - {x: 50, y: -340}
+    - - {x: 102, y: -340}
+      - {x: 100, y: -341}
+      - {x: 100, y: -347}
+      - {x: 107, y: -347}
+      - {x: 108, y: -345}
+      - {x: 108, y: -343}
+      - {x: 104, y: -340}
+    - - {x: 117, y: -334}
+      - {x: 115, y: -335}
+      - {x: 115, y: -341}
+      - {x: 122, y: -341}
+      - {x: 123, y: -339}
+      - {x: 123, y: -337}
+      - {x: 119, y: -334}
+    - - {x: 73, y: -308}
+      - {x: 70, y: -310}
+      - {x: 70, y: -323}
+      - {x: 75, y: -327}
+      - {x: 95, y: -327}
+      - {x: 97, y: -326}
+      - {x: 97, y: -323}
+      - {x: 85, y: -308}
+    - - {x: 104, y: -318}
+      - {x: 102, y: -319}
+      - {x: 102, y: -325}
+      - {x: 109, y: -325}
+      - {x: 110, y: -323}
+      - {x: 110, y: -321}
+      - {x: 106, y: -318}
+    - - {x: 117, y: -317}
+      - {x: 115, y: -318}
+      - {x: 115, y: -324}
+      - {x: 122, y: -324}
+      - {x: 123, y: -322}
+      - {x: 123, y: -320}
+      - {x: 119, y: -317}
+    - - {x: -47, y: -300}
+      - {x: -40, y: -297}
+      - {x: -39, y: -292}
+      - {x: -39, y: -285}
+      - {x: -42, y: -274}
+      - {x: -39, y: -268}
+      - {x: -39, y: -261}
+      - {x: -40, y: -259}
+      - {x: -50, y: -250}
+      - {x: -56, y: -243}
+      - {x: -69, y: -242}
+      - {x: -81, y: -241}
+      - {x: -98, y: -241}
+      - {x: -105, y: -242}
+      - {x: -115, y: -255}
+      - {x: -121, y: -263}
+      - {x: -122, y: -267}
+      - {x: -122, y: -280}
+      - {x: -114, y: -285}
+      - {x: -118, y: -296}
+      - {x: -111, y: -308}
+      - {x: -95, y: -306}
+      - {x: -95, y: -312}
+      - {x: -89, y: -317}
+      - {x: -83, y: -317}
+      - {x: -75, y: -314}
+      - {x: -69, y: -318}
+      - {x: -62, y: -318}
+      - {x: -60, y: -316}
+      - {x: -59, y: -299}
+      - {x: -54, y: -294}
+    - - {x: 53, y: -297}
+      - {x: 52, y: -290}
+      - {x: 63, y: -295}
+      - {x: 89, y: -294}
+      - {x: 95, y: -288}
+      - {x: 97, y: -284}
+      - {x: 106, y: -265}
+      - {x: 68, y: -264}
+      - {x: 69, y: -257}
+      - {x: 57, y: -241}
+      - {x: 89, y: -238}
+      - {x: 94, y: -260}
+      - {x: 124, y: -267}
+      - {x: 128, y: -263}
+      - {x: 128, y: -30}
+      - {x: 119, y: -30}
+      - {x: 128, y: -14}
+      - {x: 128, y: 17}
+      - {x: 127, y: 29}
+      - {x: 123, y: 31}
+      - {x: 101, y: 31}
+      - {x: 98, y: 30}
+      - {x: 40, y: -30}
+      - {x: 34, y: -11}
+      - {x: 32, y: -9}
+      - {x: -32, y: -9}
+      - {x: -34, y: -11}
+      - {x: -41, y: -30}
+      - {x: -62, y: -9}
+      - {x: -98, y: -9}
+      - {x: -128, y: -30}
+      - {x: -128, y: -109}
+      - {x: -34, y: -109}
+      - {x: -34, y: -235}
+      - {x: -32, y: -237}
+      - {x: -15, y: -237}
+      - {x: -31, y: -254}
+      - {x: -31, y: -272}
+      - {x: -26, y: -288}
+      - {x: -19, y: -300}
+      - {x: -3, y: -304}
+      - {x: 7, y: -316}
+      - {x: 23, y: -318}
+      - {x: 27, y: -318}
+      - {x: 34, y: -311}
+      - {x: 45, y: -309}
+      - {x: 52, y: -306}
+    - - {x: 109, y: -308}
+      - {x: 107, y: -313}
+      - {x: 109, y: -315}
+      - {x: 115, y: -315}
+      - {x: 116, y: -313}
+      - {x: 116, y: -311}
+      - {x: 112, y: -308}
+    - - {x: 108, y: -300}
+      - {x: 103, y: -300}
+      - {x: 101, y: -304}
+      - {x: 101, y: -308}
+      - {x: 108, y: -308}
+      - {x: 112, y: -306}
+      - {x: 112, y: -303}
+    - - {x: 124, y: -297}
+      - {x: 120, y: -301}
+      - {x: 121, y: -304}
+      - {x: 126, y: -304}
+      - {x: 128, y: -302}
+      - {x: 128, y: -299}
+      - {x: 126, y: -297}
+    - - {x: 15, y: 31}
+      - {x: 13, y: 29}
+      - {x: 13, y: -3}
+      - {x: 16, y: -6}
+      - {x: 50, y: -6}
+      - {x: 52, y: -4}
+      - {x: 52, y: 28}
+      - {x: 49, y: 31}
+    - - {x: 65, y: 28}
+      - {x: 65, y: -2}
+      - {x: 68, y: -3}
+      - {x: 97, y: -3}
+      - {x: 97, y: 28}
+    - - {x: -34, y: 42}
+      - {x: -34, y: 5}
+      - {x: 2, y: 5}
+      - {x: 2, y: 41}
+      - {x: 0, y: 42}
+    - - {x: -116, y: 40}
+      - {x: -116, y: 14}
+      - {x: -76, y: 14}
+      - {x: -76, y: 40}
+    - - {x: -57, y: 40}
+      - {x: -59, y: 38}
+      - {x: -59, y: 16}
+      - {x: -57, y: 14}
+      - {x: -39, y: 14}
+      - {x: -37, y: 16}
+      - {x: -37, y: 38}
+      - {x: -39, y: 40}
+    - - {x: 28, y: 91}
+      - {x: 19, y: 98}
+      - {x: 7, y: 98}
+      - {x: 1, y: 94}
+      - {x: 1, y: 79}
+      - {x: -2, y: 71}
+      - {x: -2, y: 56}
+      - {x: 1, y: 53}
+      - {x: 7, y: 51}
+      - {x: 33, y: 51}
+      - {x: 33, y: 58}
+      - {x: 26, y: 64}
+    - - {x: 111, y: 117}
+      - {x: 105, y: 117}
+      - {x: 99, y: 107}
+      - {x: 99, y: 55}
+      - {x: 102, y: 53}
+      - {x: 128, y: 53}
+      - {x: 128, y: 112}
+      - {x: 124, y: 113}
+    - - {x: -65, y: 112}
+      - {x: -95, y: 112}
+      - {x: -97, y: 110}
+      - {x: -128, y: 87}
+      - {x: -128, y: 56}
+      - {x: -126, y: 55}
+      - {x: -82, y: 55}
+      - {x: -62, y: 63}
+      - {x: -62, y: 111}
+    - - {x: 76, y: 76}
+      - {x: 79, y: 58}
+      - {x: 85, y: 55}
+      - {x: 95, y: 55}
+      - {x: 97, y: 61}
+      - {x: 97, y: 79}
+      - {x: 96, y: 83}
+      - {x: 93, y: 85}
+      - {x: 34, y: 85}
+      - {x: 31, y: 77}
+      - {x: 31, y: 60}
+      - {x: 35, y: 55}
+      - {x: 45, y: 55}
+      - {x: 52, y: 66}
+      - {x: 58, y: 66}
+      - {x: 66, y: 61}
+    - - {x: -58, y: 109}
+      - {x: -58, y: 64}
+      - {x: -55, y: 63}
+      - {x: -41, y: 63}
+      - {x: -39, y: 65}
+      - {x: -39, y: 107}
+      - {x: -41, y: 109}
+    - - {x: -23, y: 99}
+      - {x: -25, y: 97}
+      - {x: -25, y: 71}
+      - {x: -22, y: 68}
+      - {x: -8, y: 68}
+      - {x: -6, y: 70}
+      - {x: -6, y: 97}
+      - {x: -8, y: 99}
+    - - {x: -124, y: 112}
+      - {x: -124, y: 91}
+      - {x: -101, y: 91}
+      - {x: -101, y: 112}
+    - - {x: -122, y: 141}
+      - {x: -125, y: 140}
+      - {x: -125, y: 115}
+      - {x: -99, y: 115}
+      - {x: -99, y: 133}
+      - {x: -107, y: 141}
+    - - {x: 4, y: 125}
+      - {x: 2, y: 141}
+      - {x: -2, y: 149}
+      - {x: -9, y: 154}
+      - {x: -11, y: 175}
+      - {x: 2, y: 181}
+      - {x: 3, y: 186}
+      - {x: -7, y: 207}
+      - {x: -11, y: 224}
+      - {x: -5, y: 217}
+      - {x: 3, y: 221}
+      - {x: 3, y: 224}
+      - {x: -2, y: 235}
+      - {x: 13, y: 234}
+      - {x: 17, y: 241}
+      - {x: 41, y: 233}
+      - {x: 51, y: 207}
+      - {x: 41, y: 212}
+      - {x: 28, y: 214}
+      - {x: 4, y: 213}
+      - {x: 2, y: 208}
+      - {x: 10, y: 204}
+      - {x: -2, y: 201}
+      - {x: 2, y: 195}
+      - {x: 12, y: 194}
+      - {x: 27, y: 202}
+      - {x: 50, y: 191}
+      - {x: 54, y: 174}
+      - {x: 43, y: 168}
+      - {x: 30, y: 155}
+      - {x: 33, y: 132}
+      - {x: 48, y: 123}
+      - {x: 57, y: 121}
+      - {x: 83, y: 122}
+      - {x: 98, y: 134}
+      - {x: 101, y: 154}
+      - {x: 106, y: 164}
+      - {x: 123, y: 163}
+      - {x: 128, y: 170}
+      - {x: 128, y: 175}
+      - {x: 126, y: 176}
+      - {x: 111, y: 175}
+      - {x: 119, y: 180}
+      - {x: 126, y: 195}
+      - {x: 124, y: 197}
+      - {x: 120, y: 198}
+      - {x: 113, y: 192}
+      - {x: 114, y: 193}
+      - {x: 117, y: 198}
+      - {x: 113, y: 204}
+      - {x: 107, y: 205}
+      - {x: 99, y: 199}
+      - {x: 96, y: 195}
+      - {x: 89, y: 201}
+      - {x: 106, y: 210}
+      - {x: 124, y: 216}
+      - {x: 128, y: 223}
+      - {x: 128, y: 231}
+      - {x: 121, y: 232}
+      - {x: 120, y: 236}
+      - {x: 117, y: 240}
+      - {x: 103, y: 226}
+      - {x: 91, y: 215}
+      - {x: 93, y: 222}
+      - {x: 111, y: 245}
+      - {x: 128, y: 259}
+      - {x: 128, y: 275}
+      - {x: 126, y: 278}
+      - {x: 116, y: 276}
+      - {x: 102, y: 276}
+      - {x: 96, y: 270}
+      - {x: 85, y: 235}
+      - {x: 76, y: 222}
+      - {x: 73, y: 214}
+      - {x: 76, y: 248}
+      - {x: 87, y: 260}
+      - {x: 100, y: 276}
+      - {x: 88, y: 283}
+      - {x: 78, y: 277}
+      - {x: 70, y: 254}
+      - {x: 69, y: 268}
+      - {x: 62, y: 276}
+      - {x: 56, y: 277}
+      - {x: 53, y: 274}
+      - {x: 60, y: 262}
+      - {x: 47, y: 271}
+      - {x: 28, y: 275}
+      - {x: 27, y: 272}
+      - {x: 28, y: 269}
+      - {x: 34, y: 263}
+      - {x: 46, y: 260}
+      - {x: 60, y: 230}
+      - {x: 49, y: 242}
+      - {x: 25, y: 255}
+      - {x: 10, y: 256}
+      - {x: -11, y: 248}
+      - {x: -30, y: 234}
+      - {x: -35, y: 241}
+      - {x: -44, y: 235}
+      - {x: -53, y: 244}
+      - {x: -35, y: 244}
+      - {x: -30, y: 246}
+      - {x: -28, y: 263}
+      - {x: -34, y: 273}
+      - {x: -34, y: 296}
+      - {x: -35, y: 317}
+      - {x: -38, y: 322}
+      - {x: -47, y: 333}
+      - {x: -54, y: 333}
+      - {x: -60, y: 329}
+      - {x: -62, y: 312}
+      - {x: -62, y: 302}
+      - {x: -65, y: 277}
+      - {x: -66, y: 301}
+      - {x: -92, y: 298}
+      - {x: -94, y: 296}
+      - {x: -96, y: 248}
+      - {x: -93, y: 245}
+      - {x: -67, y: 242}
+      - {x: -54, y: 227}
+      - {x: -61, y: 217}
+      - {x: -61, y: 208}
+      - {x: -58, y: 205}
+      - {x: -57, y: 205}
+      - {x: -55, y: 207}
+      - {x: -56, y: 211}
+      - {x: -55, y: 212}
+      - {x: -55, y: 210}
+      - {x: -56, y: 198}
+      - {x: -55, y: 193}
+      - {x: -53, y: 187}
+      - {x: -34, y: 166}
+      - {x: -41, y: 157}
+      - {x: -59, y: 157}
+      - {x: -66, y: 145}
+      - {x: -62, y: 144}
+      - {x: -52, y: 142}
+      - {x: -59, y: 133}
+      - {x: -66, y: 142}
+      - {x: -65, y: 169}
+      - {x: -60, y: 184}
+      - {x: -62, y: 221}
+      - {x: -127, y: 222}
+      - {x: -128, y: 221}
+      - {x: -128, y: 158}
+      - {x: -114, y: 146}
+      - {x: -107, y: 148}
+      - {x: -95, y: 158}
+      - {x: -94, y: 160}
+      - {x: -94, y: 171}
+      - {x: -97, y: 180}
+      - {x: -100, y: 183}
+      - {x: -93, y: 181}
+      - {x: -94, y: 168}
+      - {x: -94, y: 145}
+      - {x: -95, y: 141}
+      - {x: -96, y: 120}
+      - {x: -89, y: 116}
+      - {x: -59, y: 116}
+      - {x: -49, y: 121}
+      - {x: -14, y: 126}
+      - {x: -7, y: 121}
+    - - {x: 74, y: 178}
+      - {x: 75, y: 186}
+      - {x: 77, y: 190}
+      - {x: 79, y: 195}
+      - {x: 85, y: 202}
+      - {x: 83, y: 201}
+      - {x: 83, y: 195}
+      - {x: 84, y: 194}
+      - {x: 83, y: 195}
+      - {x: 80, y: 192}
+      - {x: 80, y: 190}
+      - {x: 83, y: 187}
+      - {x: 84, y: 187}
+      - {x: 87, y: 184}
+      - {x: 87, y: 183}
+      - {x: 89, y: 181}
+      - {x: 89, y: 182}
+      - {x: 87, y: 184}
+      - {x: 82, y: 185}
+      - {x: 76, y: 184}
+      - {x: 73, y: 181}
+      - {x: 73, y: 180}
+      - {x: 76, y: 177}
+    - - {x: -37, y: 195}
+      - {x: -35, y: 208}
+      - {x: -26, y: 198}
+      - {x: -29, y: 193}
+    - - {x: -89, y: 317}
+      - {x: -94, y: 337}
+      - {x: -32, y: 339}
+      - {x: -30, y: 341}
+      - {x: -30, y: 371}
+      - {x: 32, y: 371}
+      - {x: 64, y: 399}
+      - {x: 64, y: 423}
+      - {x: 61, y: 433}
+      - {x: 43, y: 428}
+      - {x: 32, y: 439}
+      - {x: -128, y: 439}
+      - {x: -128, y: 243}
+      - {x: -99, y: 243}
+      - {x: -94, y: 244}
+      - {x: -94, y: 255}
+      - {x: -100, y: 292}
+      - {x: -108, y: 303}
+    - - {x: 105, y: 254}
+      - {x: 114, y: 264}
+      - {x: 116, y: 262}
+      - {x: 117, y: 262}
+      - {x: 121, y: 266}
+      - {x: 120, y: 265}
+      - {x: 120, y: 263}
+      - {x: 110, y: 258}
+      - {x: 107, y: 255}
+      - {x: 101, y: 250}
+      - {x: 102, y: 250}
+    - - {x: -113, y: 286}
+      - {x: -116, y: 291}
+      - {x: -115, y: 292}
+      - {x: -116, y: 293}
+      - {x: -112, y: 285}
+      - {x: -111, y: 284}
+      - {x: -111, y: 285}
+    - - {x: -83, y: 335}
+      - {x: -91, y: 330}
+      - {x: -91, y: 307}
+      - {x: -69, y: 307}
+      - {x: -69, y: 330}
+      - {x: -74, y: 335}
+    - - {x: -114, y: 311}
+      - {x: -113, y: 314}
+      - {x: -110, y: 315}
+      - {x: -114, y: 310}
+    - - {x: -113, y: 338}
+      - {x: -111, y: 338}
+      - {x: -112, y: 335}
+      - {x: -111, y: 335}
+    - - {x: 52, y: 401}
+      - {x: 43, y: 401}
+      - {x: 38, y: 399}
+      - {x: 36, y: 395}
+      - {x: 36, y: 379}
+      - {x: 41, y: 377}
+      - {x: 59, y: 377}
+      - {x: 60, y: 379}
+      - {x: 60, y: 394}
+      - {x: 58, y: 398}
+    - - {x: 64, y: 423}
+      - {x: 64, y: 405}
+      - {x: 98, y: 405}
+      - {x: 98, y: 423}
+    - - {x: 118, y: 431}
+      - {x: 105, y: 431}
+      - {x: 99, y: 430}
+      - {x: 99, y: 412}
+      - {x: 103, y: 406}
+      - {x: 112, y: 406}
+      - {x: 124, y: 410}
+      - {x: 126, y: 413}
+      - {x: 126, y: 417}
+      - {x: 120, y: 430}
+    - - {x: 99, y: 511}
+      - {x: 84, y: 518}
+      - {x: 66, y: 512}
+      - {x: 59, y: 506}
+      - {x: 48, y: 516}
+      - {x: 35, y: 509}
+      - {x: 34, y: 531}
+      - {x: 128, y: 531}
+      - {x: 128, y: 599}
+      - {x: 117, y: 599}
+      - {x: 119, y: 599}
+      - {x: 128, y: 605}
+      - {x: 128, y: 633}
+      - {x: 115, y: 644}
+      - {x: 106, y: 662}
+      - {x: 128, y: 669}
+      - {x: 128, y: 714}
+      - {x: 126, y: 719}
+      - {x: 102, y: 718}
+      - {x: 93, y: 709}
+      - {x: 35, y: 709}
+      - {x: 33, y: 707}
+      - {x: 32, y: 674}
+      - {x: 32, y: 685}
+      - {x: 31, y: 688}
+      - {x: 33, y: 696}
+      - {x: 33, y: 712}
+      - {x: 37, y: 715}
+      - {x: 31, y: 725}
+      - {x: 2, y: 725}
+      - {x: 0, y: 722}
+      - {x: -3, y: 710}
+      - {x: 0, y: 685}
+      - {x: 0, y: 675}
+      - {x: -3, y: 678}
+      - {x: 0, y: 679}
+      - {x: 0, y: 682}
+      - {x: -3, y: 685}
+      - {x: -7, y: 705}
+      - {x: -12, y: 712}
+      - {x: -22, y: 716}
+      - {x: -28, y: 714}
+      - {x: -33, y: 725}
+      - {x: -47, y: 725}
+      - {x: -58, y: 719}
+      - {x: -59, y: 704}
+      - {x: -47, y: 695}
+      - {x: -27, y: 696}
+      - {x: -42, y: 692}
+      - {x: -60, y: 692}
+      - {x: -62, y: 725}
+      - {x: -128, y: 725}
+      - {x: -128, y: 659}
+      - {x: -69, y: 658}
+      - {x: -82, y: 657}
+      - {x: -83, y: 654}
+      - {x: -88, y: 658}
+      - {x: -89, y: 658}
+      - {x: -91, y: 656}
+      - {x: -90, y: 653}
+      - {x: -83, y: 644}
+      - {x: -80, y: 638}
+      - {x: -78, y: 636}
+      - {x: -87, y: 644}
+      - {x: -89, y: 644}
+      - {x: -91, y: 641}
+      - {x: -82, y: 629}
+      - {x: -82, y: 607}
+      - {x: -95, y: 608}
+      - {x: -105, y: 619}
+      - {x: -94, y: 637}
+      - {x: -97, y: 653}
+      - {x: -108, y: 657}
+      - {x: -124, y: 657}
+      - {x: -128, y: 656}
+      - {x: -128, y: 628}
+      - {x: -120, y: 619}
+      - {x: -128, y: 612}
+      - {x: -128, y: 467}
+      - {x: 0, y: 467}
+      - {x: 2, y: 469}
+      - {x: 14, y: 496}
+      - {x: 14, y: 449}
+      - {x: 82, y: 449}
+      - {x: 83, y: 498}
+      - {x: 89, y: 498}
+    - - {x: 97, y: 516}
+      - {x: 94, y: 514}
+      - {x: 94, y: 449}
+      - {x: 128, y: 449}
+      - {x: 128, y: 503}
+      - {x: 114, y: 516}
+    - - {x: -44, y: 601}
+      - {x: -35, y: 602}
+      - {x: -30, y: 606}
+      - {x: -30, y: 607}
+      - {x: -33, y: 610}
+      - {x: -39, y: 610}
+      - {x: -42, y: 608}
+      - {x: -40, y: 608}
+      - {x: -36, y: 613}
+      - {x: -35, y: 613}
+      - {x: -32, y: 616}
+      - {x: -32, y: 617}
+      - {x: -35, y: 620}
+      - {x: -39, y: 620}
+      - {x: -56, y: 629}
+      - {x: -59, y: 630}
+      - {x: -59, y: 629}
+      - {x: -54, y: 632}
+      - {x: -47, y: 631}
+      - {x: -40, y: 642}
+      - {x: -45, y: 644}
+      - {x: -49, y: 642}
+      - {x: -51, y: 642}
+      - {x: -56, y: 641}
+      - {x: -58, y: 639}
+      - {x: -51, y: 641}
+      - {x: -49, y: 643}
+      - {x: -42, y: 646}
+      - {x: -33, y: 655}
+      - {x: -33, y: 656}
+      - {x: -36, y: 659}
+      - {x: -38, y: 659}
+      - {x: -46, y: 658}
+      - {x: -49, y: 661}
+      - {x: -51, y: 661}
+      - {x: -55, y: 662}
+      - {x: -55, y: 663}
+      - {x: -54, y: 664}
+      - {x: -50, y: 660}
+      - {x: -45, y: 660}
+      - {x: -33, y: 663}
+      - {x: -30, y: 666}
+      - {x: -23, y: 666}
+      - {x: -20, y: 662}
+      - {x: -23, y: 663}
+      - {x: -32, y: 662}
+      - {x: -35, y: 659}
+      - {x: -35, y: 656}
+      - {x: -34, y: 655}
+      - {x: -34, y: 650}
+      - {x: -36, y: 644}
+      - {x: -35, y: 630}
+      - {x: -31, y: 628}
+      - {x: -28, y: 628}
+      - {x: -28, y: 629}
+      - {x: -33, y: 623}
+      - {x: -33, y: 610}
+      - {x: -31, y: 605}
+      - {x: -51, y: 599}
+      - {x: -50, y: 598}
+    - - {x: -3, y: 599}
+      - {x: 1, y: 602}
+      - {x: 3, y: 607}
+      - {x: 3, y: 615}
+      - {x: 0, y: 620}
+      - {x: -1, y: 618}
+      - {x: 1, y: 615}
+      - {x: 9, y: 607}
+      - {x: 12, y: 605}
+      - {x: 21, y: 605}
+      - {x: 29, y: 608}
+      - {x: 32, y: 600}
+      - {x: -7, y: 599}
+      - {x: -6, y: 598}
+    - - {x: 66, y: 612}
+      - {x: 65, y: 615}
+      - {x: 60, y: 619}
+      - {x: 64, y: 632}
+      - {x: 63, y: 653}
+      - {x: 60, y: 656}
+      - {x: 54, y: 660}
+      - {x: 41, y: 660}
+      - {x: 35, y: 655}
+      - {x: 32, y: 652}
+      - {x: 32, y: 632}
+      - {x: 33, y: 629}
+      - {x: 36, y: 627}
+      - {x: 35, y: 623}
+      - {x: 34, y: 620}
+      - {x: 34, y: 637}
+      - {x: 33, y: 642}
+      - {x: 25, y: 650}
+      - {x: 19, y: 653}
+      - {x: 8, y: 652}
+      - {x: 1, y: 645}
+      - {x: 1, y: 644}
+      - {x: -1, y: 642}
+      - {x: -1, y: 643}
+      - {x: 2, y: 646}
+      - {x: 2, y: 654}
+      - {x: -1, y: 657}
+      - {x: -2, y: 657}
+      - {x: -3, y: 656}
+      - {x: -2, y: 657}
+      - {x: -5, y: 660}
+      - {x: -5, y: 659}
+      - {x: -3, y: 659}
+      - {x: 11, y: 656}
+      - {x: 30, y: 660}
+      - {x: 38, y: 659}
+      - {x: 43, y: 659}
+      - {x: 48, y: 662}
+      - {x: 84, y: 662}
+      - {x: 87, y: 659}
+      - {x: 87, y: 660}
+      - {x: 85, y: 658}
+      - {x: 84, y: 655}
+      - {x: 70, y: 639}
+      - {x: 63, y: 624}
+      - {x: 63, y: 615}
+      - {x: 64, y: 612}
+      - {x: 71, y: 603}
+      - {x: 72, y: 603}
+      - {x: 75, y: 599}
+      - {x: 78, y: 599}
+      - {x: 65, y: 599}
+      - {x: 66, y: 600}
+    - - {x: -7, y: 631}
+      - {x: -10, y: 632}
+      - {x: -10, y: 631}
+      - {x: -5, y: 628}
+      - {x: -4, y: 628}
+      - {x: 0, y: 632}
+      - {x: -1, y: 633}
+      - {x: -1, y: 625}
+      - {x: -1, y: 626}
+    - - {x: -12, y: 659}
+      - {x: -13, y: 660}
+      - {x: -17, y: 658}
+      - {x: -17, y: 645}
+      - {x: -14, y: 647}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
